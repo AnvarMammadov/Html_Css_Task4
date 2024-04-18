@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    font: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 0.5px;
+}
+
+.container{
+    margin:0 auto;
+    width: 90%;
+}
+
+.imgCont{
+    margin: 0 auto;
+    width: 90%;
+    height: 113;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.imgCont img{
+    margin: 0 auto;
+    width: 351;
+    height: 113;
+}
+
+.srchCont{
+    width: 1364;
+    height: 62;
+    background-color: #EEEEEE;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.linkCont{
+    width: 1364;
+    height: 80px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.btn{
+    width: auto;
+height: 25px;
+    padding: 1px;
+}
+
+.srchSpecial{
+    padding: 5px;
+    width: 37%;
+    height: 75px;
+    background-color:#7EE5DA ;
+    text-align: center;
+    justify-content: center;
+    margin: 1px;
+}
+
+
+.lnkSpecial{
+    padding: 5px;
+    height: 75px;
+    width: 23%;
+    background-color:#70CCC2;
+    text-align: center;
+    justify-content: center;
+    margin: 1px;
+    font-size: small;
+}
+
+.mSpecial{
+    padding: 5px;
+    height: 75px;
+    width:40%;
+    background-color:#62B3AA;
+    text-align: center;
+    justify-content: center;
+    margin: 1px;
+    font-size: small;
+}
+
+
+.footer{
+    margin: 0 auto;
+    width: 50vh;
+    text-align: center;
+    justify-content: center;
+    font-size: smaller;
+    margin-top: 10px;
+}
